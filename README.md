@@ -1,4 +1,4 @@
-# Capacitor NFC Plugin (@exxili/capacitor-nfc)
+# Capacitor NFC Plugin (@Missile71/capacitor-nfc)
 
 A Capacitor plugin for reading and writing NFC tags on iOS devices. This plugin allows you to:
 
